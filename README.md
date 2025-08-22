@@ -1,1 +1,1 @@
-https://theains.github.io/my-map/map1.html
+https://theains.github.io/my-map/Map1.html
